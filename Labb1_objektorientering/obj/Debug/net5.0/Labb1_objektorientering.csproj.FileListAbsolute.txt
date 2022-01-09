@@ -1,0 +1,15 @@
+/Users/jonasbergstrom/Projects/Labb1_objektorientering/Labb1_objektorientering/bin/Debug/net5.0/Labb1_objektorientering.deps.json
+/Users/jonasbergstrom/Projects/Labb1_objektorientering/Labb1_objektorientering/bin/Debug/net5.0/Labb1_objektorientering.runtimeconfig.json
+/Users/jonasbergstrom/Projects/Labb1_objektorientering/Labb1_objektorientering/bin/Debug/net5.0/Labb1_objektorientering.runtimeconfig.dev.json
+/Users/jonasbergstrom/Projects/Labb1_objektorientering/Labb1_objektorientering/bin/Debug/net5.0/Labb1_objektorientering.dll
+/Users/jonasbergstrom/Projects/Labb1_objektorientering/Labb1_objektorientering/bin/Debug/net5.0/ref/Labb1_objektorientering.dll
+/Users/jonasbergstrom/Projects/Labb1_objektorientering/Labb1_objektorientering/bin/Debug/net5.0/Labb1_objektorientering.pdb
+/Users/jonasbergstrom/Projects/Labb1_objektorientering/Labb1_objektorientering/obj/Debug/net5.0/Labb1_objektorientering.csproj.AssemblyReference.cache
+/Users/jonasbergstrom/Projects/Labb1_objektorientering/Labb1_objektorientering/obj/Debug/net5.0/Labb1_objektorientering.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonasbergstrom/Projects/Labb1_objektorientering/Labb1_objektorientering/obj/Debug/net5.0/Labb1_objektorientering.AssemblyInfoInputs.cache
+/Users/jonasbergstrom/Projects/Labb1_objektorientering/Labb1_objektorientering/obj/Debug/net5.0/Labb1_objektorientering.AssemblyInfo.cs
+/Users/jonasbergstrom/Projects/Labb1_objektorientering/Labb1_objektorientering/obj/Debug/net5.0/Labb1_objektorientering.csproj.CoreCompileInputs.cache
+/Users/jonasbergstrom/Projects/Labb1_objektorientering/Labb1_objektorientering/obj/Debug/net5.0/Labb1_objektorientering.dll
+/Users/jonasbergstrom/Projects/Labb1_objektorientering/Labb1_objektorientering/obj/Debug/net5.0/ref/Labb1_objektorientering.dll
+/Users/jonasbergstrom/Projects/Labb1_objektorientering/Labb1_objektorientering/obj/Debug/net5.0/Labb1_objektorientering.pdb
+/Users/jonasbergstrom/Projects/Labb1_objektorientering/Labb1_objektorientering/obj/Debug/net5.0/Labb1_objektorientering.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Labb1_objektorientering/1.0.0": {
+        "runtime": {
+          "Labb1_objektorientering.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Labb1_objektorientering/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
